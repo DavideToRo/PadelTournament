@@ -51,8 +51,9 @@ Este proyecto en **Java + Swing + MySQL** te permite gestionar un torneo de pád
 
 ---
 
-## 🔥 Capturas de Pantalla (Opcional)
-Si quieres, puedes agregar algunas imágenes de la interfaz aquí. 📸
+## 🔥 Capturas de Pantalla 
+Próximante, en construcción!🚧
+
 
 ---
 

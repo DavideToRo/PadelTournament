@@ -23,7 +23,7 @@ Este proyecto en **Java + Swing + MySQL** te permite gestionar un torneo de pád
 ## 🎮 Cómo Usarlo
 1. **Clonar el repositorio** 🛠️
    ```bash
-   git clone https://github.com/tuusuario/gestor-torneos-padel.git
+  [ git clone https://github.com/tuusuario/gestor-torneos-padel.git](https://github.com/DavideToRo/PadelTournament.git)
    ```
 2. **Configurar la base de datos** 🗄️
    - Asegúrate de tener **MySQL** instalado.

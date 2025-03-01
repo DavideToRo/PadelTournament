@@ -23,7 +23,7 @@ Este proyecto en **Java + Swing + MySQL** te permite gestionar un torneo de pád
 ## 🎮 Cómo Usarlo
 1. **Clonar el repositorio** 🛠️
    ```bash
-https://github.com/DavideToRo/PadelTournament.git
+   git clone https://github.com/DavideToRo/PadelTournament.git
    ```
 2. **Configurar la base de datos** 🗄️
    - Asegúrate de tener **MySQL** instalado.
@@ -57,7 +57,7 @@ Si quieres, puedes agregar algunas imágenes de la interfaz aquí. 📸
 ---
 
 ## ⚠️ Notas Importantes
-⚠️ Si experimentas errores con la conexión a la base de datos, revisa `MySqlDao.java` y asegúrate de que los datos de conexión sean correctos.
+⚠️ Si experimentas errores con la conexión a la base de datos, revisa `MySqlDao.java` y asegúrate de que los datos de conexión sean correctos. 
 
 ---
 
@@ -77,4 +77,6 @@ Si tienes dudas o sugerencias, puedes encontrarme en **LinkedIn**, **GitHub** o 
 ---
 
 ¡Gracias por pasarte por aquí! 🌟 Espero que disfrutes organizando torneos con este proyecto. ¡Dale caña! 🎾💪
+
+
 
